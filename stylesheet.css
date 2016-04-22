@@ -4,7 +4,6 @@ a{
 	font-family: cursive;
 }
 a:hover {
-	color: ##08088A;
+	color: ##cc0000;
 	font-weight: bold;
-	text-decoration: none;
-}
+	}

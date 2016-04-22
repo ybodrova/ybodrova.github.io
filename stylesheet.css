@@ -3,7 +3,7 @@ a{
 	color: #6CA6CD;
 	font-family: cursive;
 }
-a:hover {
+a: hover {
 	color: ##08088A;
 	font-weight: bold;
 	text-decoration: none;
